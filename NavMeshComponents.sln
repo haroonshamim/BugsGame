@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavMeshComponents", "NavMeshComponents.csproj", "{AED062E9-D5A7-661C-3398-359112F87EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED062E9-D5A7-661C-3398-359112F87EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AED062E9-D5A7-661C-3398-359112F87EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AED062E9-D5A7-661C-3398-359112F87EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AED062E9-D5A7-661C-3398-359112F87EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FF4755C-F153-4EBB-A5E6-7B75101C07D7}
+	EndGlobalSection
+EndGlobal

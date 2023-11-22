@@ -1,0 +1,2 @@
+/Users/sarahaldrees/Downloads/BugsExplorer3DMobile/obj/Debug/Unity.Microgame.Tutorials.csproj.AssemblyReference.cache
+/Users/sarahaldrees/Downloads/BugsExplorer3DMobile/obj/Debug/Unity.Microgame.Tutorials.csproj.CoreCompileInputs.cache

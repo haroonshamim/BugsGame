@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FED5F480-2809-5FCF-BC18-BA08B8F8B46F}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="f18dcd82-5ff7-40a3-ae21-b6d7ad5f8b26" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FPS/Tutorials/TutorialCallbacks.cs">
+    <Files>
+      <File FileName="Assets/FPS/Tutorials/TutorialCallbacks.cs" Line="19" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BugsExplorer3DMobile" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FPS" expanded="True">
+                <Node name="Tutorials" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

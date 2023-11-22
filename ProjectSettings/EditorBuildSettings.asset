@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameSwitcher.unity
+    guid: 3ed0cafb5f949964bb8faa80c0877284
+  - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinScene.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/Level1.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/FPS/Scenes/LevelsScene.unity
+    guid: dcf2695a4ecdd41c8be1287319c49275
+  - enabled: 1
+    path: Assets/FPS/Scenes/Level2.unity
+    guid: 504ae665c943c21489dfe35705efc8ed
+  - enabled: 1
+    path: Assets/FPS/Scenes/Level3.unity
+    guid: 12232f8b7646ad142a238a4015a6eed1
+  - enabled: 1
+    path: Assets/FPS/Scenes/Level4.unity
+    guid: 91997663e8f905243868852c1ae77a2e
+  - enabled: 1
+    path: Assets/Scenes/Bugs2dMainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bugs2dGamePlay.unity
+    guid: 1026943702fbe4a5e97ff789216bca34
+  m_configObjects: {}

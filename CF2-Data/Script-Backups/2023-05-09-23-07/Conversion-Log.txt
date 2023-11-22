@@ -1,0 +1,59 @@
+Converting script [1 / 8]	[\FPS\Scripts\Gameplay\TeleportPlayer.cs]
+	Fragments : 1
+		[ 0] : Line:   22	InputMethod   GetKeyDown          	(ActivateKey)
+
+Converting script [2 / 8]	[\FPS\Scripts\UI\InGameMenuManager.cs]
+	Fragments : 8
+		[ 0] : Line:   68	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   69	Other mod.	[Cursor.visible]
+		[ 2] : Line:   74	Other mod.	[Cursor.lockState]
+		[ 3] : Line:   75	Other mod.	[Cursor.visible]
+		[ 4] : Line:  112	Other mod.	[Cursor.lockState]
+		[ 5] : Line:  113	Other mod.	[Cursor.visible]
+		[ 6] : Line:  121	Other mod.	[Cursor.lockState]
+		[ 7] : Line:  122	Other mod.	[Cursor.visible]
+
+Converting script [3 / 8]	[\FPS\Scripts\UI\LoadSceneButton.cs]
+	Fragments : 1
+		[ 0] : Line:   15	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameSubmit)
+
+Converting script [4 / 8]	[\FPS\Scripts\UI\MenuNavigation.cs]
+	Fragments : 2
+		[ 0] : Line:   14	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   15	Other mod.	[Cursor.visible]
+
+Converting script [5 / 8]	[\FPS\Scripts\UI\ToggleGameObjectButton.cs]
+	Fragments : 1
+		[ 0] : Line:   14	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameCancel)
+
+Converting script [6 / 8]	[\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	Fragments : 2
+		[ 0] : Line:   71	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   72	Other mod.	[Cursor.visible]
+
+Converting script [7 / 8]	[\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	Fragments : 3
+		[ 0] : Line:   35	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   36	Other mod.	[Cursor.visible]
+		[ 2] : Line:   46	Other mod.	[Cursor.lockState]
+
+Converting script [8 / 8]	[\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+	Fragments : 4
+		[ 0] : Line:   47	Other mod.	[Cursor.visible]
+		[ 1] : Line:   47	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   66	Other mod.	[Cursor.visible]
+		[ 3] : Line:   83	Other mod.	[Cursor.visible]
+
+
+8 scripts modified!
+Overwriting actual scripts...
+	[0 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\Gameplay\TeleportPlayer.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Gameplay\TeleportPlayer.cs]
+	[1 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\UI\InGameMenuManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\InGameMenuManager.cs]
+	[2 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\UI\LoadSceneButton.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\LoadSceneButton.cs]
+	[3 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\UI\MenuNavigation.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\MenuNavigation.cs]
+	[4 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\UI\ToggleGameObjectButton.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\ToggleGameObjectButton.cs]
+	[5 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\Game\Managers\GameFlowManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	[6 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	[7 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-07\Assets-After/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+
+Overwriting COMPLETED!

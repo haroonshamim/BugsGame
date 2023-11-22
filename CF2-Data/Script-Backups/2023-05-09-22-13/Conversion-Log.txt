@@ -1,0 +1,98 @@
+Converting script [1 / 8]	[\FPS\Scripts\Gameplay\TeleportPlayer.cs]
+	Fragments : 1
+		[ 0] : Line:   22	InputMethod   GetKeyDown          	(ActivateKey)
+
+Converting script [2 / 8]	[\FPS\Scripts\UI\InGameMenuManager.cs]
+	Fragments : 13
+		[ 0] : Line:   66	InputMethod   GetMouseButtonDown  	(0)
+		[ 1] : Line:   68	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   69	Other mod.	[Cursor.visible]
+		[ 3] : Line:   72	InputMethod   GetKeyDown          	(KeyCode.Escape)
+		[ 4] : Line:   74	Other mod.	[Cursor.lockState]
+		[ 5] : Line:   75	Other mod.	[Cursor.visible]
+		[ 6] : Line:   78	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNamePauseMenu)
+		[ 7] : Line:   79	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameCancel)
+		[ 8] : Line:   91	InputMethod   GetAxisRaw          	(GameConstants.k_AxisNameVertical)
+		[ 9] : Line:  112	Other mod.	[Cursor.lockState]
+		[10] : Line:  113	Other mod.	[Cursor.visible]
+		[11] : Line:  121	Other mod.	[Cursor.lockState]
+		[12] : Line:  122	Other mod.	[Cursor.visible]
+
+Converting script [3 / 8]	[\FPS\Scripts\UI\LoadSceneButton.cs]
+	Fragments : 1
+		[ 0] : Line:   15	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameSubmit)
+
+Converting script [4 / 8]	[\FPS\Scripts\UI\MenuNavigation.cs]
+	Fragments : 5
+		[ 0] : Line:   14	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   15	Other mod.	[Cursor.visible]
+		[ 2] : Line:   23	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameSubmit)
+		[ 3] : Line:   24	InputMethod   GetAxisRaw          	(GameConstants.k_AxisNameHorizontal)
+		[ 4] : Line:   25	InputMethod   GetAxisRaw          	(GameConstants.k_AxisNameVertical)
+
+Converting script [5 / 8]	[\FPS\Scripts\UI\ToggleGameObjectButton.cs]
+	Fragments : 1
+		[ 0] : Line:   14	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameCancel)
+
+Converting script [6 / 8]	[\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	Fragments : 2
+		[ 0] : Line:   71	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   72	Other mod.	[Cursor.visible]
+
+Converting script [7 / 8]	[\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	Fragments : 34
+		[ 0] : Line:   35	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   36	Other mod.	[Cursor.visible]
+		[ 2] : Line:   46	Other mod.	[Cursor.lockState]
+		[ 3] : Line:   53	InputMethod   GetAxisRaw          	(GameConstants.k_AxisNameHorizontal)
+		[ 4] : Line:   54	InputMethod   GetAxisRaw          	(GameConstants.k_AxisNameVertical)
+		[ 5] : Line:   81	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameJump)
+		[ 6] : Line:   91	InputMethod   GetButton           	(GameConstants.k_ButtonNameJump)
+		[ 7] : Line:  111	InputMethod   GetAxis             	(GameConstants.k_ButtonNameGamepadFire)
+		[ 8] : Line:  114	InputMethod   GetAxis             	(GameConstants.k_ButtonNameGamepadFire)
+		[ 9] : Line:  118	InputMethod   GetButton           	(GameConstants.k_ButtonNameFire)
+		[10] : Line:  129	InputMethod   GetAxis             	(GameConstants.k_ButtonNameGamepadAim)
+		[11] : Line:  131	InputMethod   GetAxis             	(GameConstants.k_ButtonNameGamepadAim)
+		[12] : Line:  132	InputMethod   GetButton           	(GameConstants.k_ButtonNameAim)
+		[13] : Line:  143	InputMethod   GetButton           	(GameConstants.k_ButtonNameSprint)
+		[14] : Line:  153	InputMethod   GetButtonDown       	(GameConstants.k_ButtonNameCrouch)
+		[15] : Line:  163	InputMethod   GetButtonUp         	(GameConstants.k_ButtonNameCrouch)
+		[16] : Line:  173	InputMethod   GetButtonDown       	(GameConstants.k_ButtonReload)
+		[17] : Line:  184	InputMethod   GetAxis             	(GameConstants.k_ButtonNameGamepadSwitchWeapon)
+		[18] : Line:  189	InputMethod   GetAxis             	(axisName)
+		[19] : Line:  191	InputMethod   GetAxis             	(axisName)
+		[20] : Line:  193	InputMethod   GetAxis             	(GameConstants.k_ButtonNameNextWeapon)
+		[21] : Line:  195	InputMethod   GetAxis             	(GameConstants.k_ButtonNameNextWeapon)
+		[22] : Line:  206	InputMethod   GetKeyDown          	(KeyCode.Alpha1)
+		[23] : Line:  208	InputMethod   GetKeyDown          	(KeyCode.Alpha2)
+		[24] : Line:  210	InputMethod   GetKeyDown          	(KeyCode.Alpha3)
+		[25] : Line:  212	InputMethod   GetKeyDown          	(KeyCode.Alpha4)
+		[26] : Line:  214	InputMethod   GetKeyDown          	(KeyCode.Alpha5)
+		[27] : Line:  216	InputMethod   GetKeyDown          	(KeyCode.Alpha6)
+		[28] : Line:  218	InputMethod   GetKeyDown          	(KeyCode.Alpha7)
+		[29] : Line:  220	InputMethod   GetKeyDown          	(KeyCode.Alpha8)
+		[30] : Line:  222	InputMethod   GetKeyDown          	(KeyCode.Alpha9)
+		[31] : Line:  236	InputMethod   GetAxis             	(stickInputName)
+		[32] : Line:  237	InputMethod   GetAxis             	(stickInputName)
+		[33] : Line:  237	InputMethod   GetAxisRaw          	(mouseInputName)
+
+Converting script [8 / 8]	[\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+	Fragments : 4
+		[ 0] : Line:   47	Other mod.	[Cursor.visible]
+		[ 1] : Line:   47	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   66	Other mod.	[Cursor.visible]
+		[ 3] : Line:   83	Other mod.	[Cursor.visible]
+
+
+8 scripts modified!
+Overwriting actual scripts...
+	[0 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\Gameplay\TeleportPlayer.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Gameplay\TeleportPlayer.cs]
+	[1 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\UI\InGameMenuManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\InGameMenuManager.cs]
+	[2 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\UI\LoadSceneButton.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\LoadSceneButton.cs]
+	[3 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\UI\MenuNavigation.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\MenuNavigation.cs]
+	[4 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\UI\ToggleGameObjectButton.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\ToggleGameObjectButton.cs]
+	[5 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\Game\Managers\GameFlowManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	[6 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	[7 / 8] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-22-13\Assets-After/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+
+Overwriting COMPLETED!

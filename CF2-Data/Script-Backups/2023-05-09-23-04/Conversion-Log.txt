@@ -1,0 +1,183 @@
+Converting script [1 / 13]	[\FPS\Scripts\UI\InGameMenuManager.cs]
+	Fragments : 8
+		[ 0] : Line:   68	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   69	Other mod.	[Cursor.visible]
+		[ 2] : Line:   74	Other mod.	[Cursor.lockState]
+		[ 3] : Line:   75	Other mod.	[Cursor.visible]
+		[ 4] : Line:  112	Other mod.	[Cursor.lockState]
+		[ 5] : Line:  113	Other mod.	[Cursor.visible]
+		[ 6] : Line:  121	Other mod.	[Cursor.lockState]
+		[ 7] : Line:  122	Other mod.	[Cursor.visible]
+
+Converting script [2 / 13]	[\FPS\Scripts\UI\MenuNavigation.cs]
+	Fragments : 2
+		[ 0] : Line:   14	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   15	Other mod.	[Cursor.visible]
+
+Converting script [3 / 13]	[\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	Fragments : 2
+		[ 0] : Line:   71	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   72	Other mod.	[Cursor.visible]
+
+Converting script [4 / 13]	[\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	Fragments : 3
+		[ 0] : Line:   35	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   36	Other mod.	[Cursor.visible]
+		[ 2] : Line:   46	Other mod.	[Cursor.lockState]
+
+Converting script [5 / 13]	[\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+	Fragments : 4
+		[ 0] : Line:   47	Other mod.	[Cursor.visible]
+		[ 1] : Line:   47	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   66	Other mod.	[Cursor.visible]
+		[ 3] : Line:   83	Other mod.	[Cursor.visible]
+
+Converting script [6 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\Gamepads\GamepadManager.cs]
+	Fragments : 2
+		[ 0] : Line: 1571	InputMethod   GetKey              	(this.key)
+		[ 1] : Line: 1652	InputMethod   GetAxisRaw          	(this.axisName)
+
+Converting script [7 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\InputModules\GamepadInputModule.cs]
+	Fragments : 10
+		[ 0] : Line:   37	InputMethod   GetKeyDown          	(KeyCode.Return)
+		[ 1] : Line:   50	InputMethod   GetKeyDown          	(KeyCode.Escape)
+		[ 2] : Line:   64	InputMethod   GetKeyDown          	(KeyCode.LeftArrow)
+		[ 3] : Line:   65	InputMethod   GetKeyDown          	(KeyCode.RightArrow)
+		[ 4] : Line:   66	InputMethod   GetKeyDown          	(KeyCode.UpArrow)
+		[ 5] : Line:   67	InputMethod   GetKeyDown          	(KeyCode.DownArrow)
+		[ 6] : Line:  226	InputMethod   GetKeyDown          	(KeyCode.RightArrow)
+		[ 7] : Line:  226	InputMethod   GetKeyDown          	(KeyCode.LeftArrow)
+		[ 8] : Line:  227	InputMethod   GetKeyDown          	(KeyCode.UpArrow)
+		[ 9] : Line:  227	InputMethod   GetKeyDown          	(KeyCode.DownArrow)
+
+Converting script [8 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CF2Input.cs]
+	Fragments : 33
+		[ 0] : Line:  158	InputProperty simulateMouseWithTouches
+		[ 1] : Line:  165	InputProperty simulateMouseWithTouches
+		[ 2] : Line:  169	InputProperty simulateMouseWithTouches
+		[ 3] : Line:  205	InputMethod   GetAxis             	(axisName)
+		[ 4] : Line:  215	InputMethod   GetAxis             	(axisName)
+		[ 5] : Line:  224	InputMethod   GetAxisRaw          	(axisName)
+		[ 6] : Line:  233	InputMethod   GetAxisRaw          	(axisName)
+		[ 7] : Line:  250	InputMethod   GetButton           	(axisName)
+		[ 8] : Line:  259	InputMethod   GetButton           	(axisName)
+		[ 9] : Line:  269	InputMethod   GetButtonDown       	(axisName)
+		[10] : Line:  278	InputMethod   GetButtonDown       	(axisName)
+		[11] : Line:  287	InputMethod   GetButtonUp         	(axisName)
+		[12] : Line:  295	InputMethod   GetButtonUp         	(axisName)
+		[13] : Line:  312	InputMethod   GetKey              	(keyCode)
+		[14] : Line:  321	InputMethod   GetKeyDown          	(keyCode)
+		[15] : Line:  330	InputMethod   GetKeyUp            	(keyCode)
+		[16] : Line:  341	InputMethod   GetKey              	(keyName)
+		[17] : Line:  351	InputMethod   GetKeyDown          	(keyName)
+		[18] : Line:  361	InputMethod   GetKeyUp            	(keyName)
+		[19] : Line:  366	InputProperty anyKey              
+		[20] : Line:  370	InputProperty anyKeyDown          
+		[21] : Line:  388	InputProperty touchCount          
+		[22] : Line:  399	InputProperty touches             
+		[23] : Line:  409	InputMethod   GetTouch            	(i)
+		[24] : Line:  427	InputMethod   GetMouseButton      	(mouseButton)
+		[25] : Line:  436	InputMethod   GetMouseButtonDown  	(mouseButton)
+		[26] : Line:  445	InputMethod   GetMouseButtonUp    	(mouseButton)
+		[27] : Line:  464	InputProperty mousePosition       
+		[28] : Line:  476	InputProperty mouseScrollDelta    
+		[29] : Line:  476	InputProperty mouseScrollDelta    
+		[30] : Line:  484	InputProperty simulateMouseWithTouches
+		[31] : Line:  490	InputProperty simulateMouseWithTouches
+		[32] : Line:  492	InputProperty simulateMouseWithTouches
+
+Converting script [9 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFCursor.cs]
+	Fragments : 8
+		[ 0] : Line:  171	Other mod.	[UnityEngine.Screen.lockCursor]
+		[ 1] : Line:  173	Other mod.	[UnityEngine.Cursor.lockState]
+		[ 2] : Line:  181	Other mod.	[UnityEngine.Screen.lockCursor]
+		[ 3] : Line:  183	Other mod.	[UnityEngine.Cursor.lockState]
+		[ 4] : Line:  193	Other mod.	[UnityEngine.Screen.showCursor]
+		[ 5] : Line:  195	Other mod.	[UnityEngine.Cursor.visible]
+		[ 6] : Line:  203	Other mod.	[UnityEngine.Screen.showCursor]
+		[ 7] : Line:  205	Other mod.	[UnityEngine.Cursor.visible]
+
+Converting script [10 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFScreen.cs]
+	Fragments : 7
+		[ 0] : Line:   86	Other mod.	[Screen.fullScreen]
+		[ 1] : Line:   87	Other mod.	[Screen.fullScreen]
+		[ 2] : Line:   98	Other mod.	[Screen.SetResolution(width, height, fullScreen, refreshRate)]
+		[ 3] : Line:  124	Other mod.	[Screen.dpi]
+		[ 4] : Line:  137	Other mod.	[Screen.dpi]
+		[ 5] : Line:  140	Other mod.	[Screen.dpi]
+		[ 6] : Line:  145	Other mod.	[Screen.dpi]
+
+Converting script [11 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\System\InputRig.cs]
+	Fragments : 11
+		[ 0] : Line:  827	InputMethod   GetKey              	(key)
+		[ 1] : Line: 1222	InputMethod   GetKey              	(keyCode)
+		[ 2] : Line: 1241	InputMethod   GetKeyDown          	(keyCode)
+		[ 3] : Line: 1260	InputMethod   GetKeyUp            	(keyCode)
+		[ 4] : Line: 1273	InputProperty anyKey              
+		[ 5] : Line: 1274	InputProperty anyKeyDown          
+		[ 6] : Line: 1712	Other mod.	[Touch]
+		[ 7] : Line: 1735	Other mod.	[Touch]
+		[ 8] : Line: 1748	Other mod.	[UnityEngine.Touch]
+		[ 9] : Line: 1874	Other mod.	[Touch]
+		[10] : Line: 1941	Other mod.	[Touch]
+
+Converting script [12 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\SuperTouchZone.cs]
+	Fragments : 24
+		[ 0] : Line: 2105	InputMethod   GetKey              	(this.zone.emuMouseTwoFingersKey)
+		[ 1] : Line: 2105	InputMethod   GetKey              	(this.zone.emuMouseTwistKey)
+		[ 2] : Line: 2105	InputMethod   GetKey              	(this.zone.emuMousePinchKey)
+		[ 3] : Line: 2106	InputMethod   GetKey              	(this.zone.emuMouseThreeFingersKey)
+		[ 4] : Line: 2181	InputMethod   GetKey              	(this.zone.emuMouseTwistKey)
+		[ 5] : Line: 2182	InputMethod   GetKey              	(this.zone.emuMousePinchKey)
+		[ 6] : Line: 2187	InputMethod   GetKey              	(this.zone.emuMouseTwoFingersKey)
+		[ 7] : Line: 2187	InputMethod   GetKey              	(this.zone.emuMouseThreeFingersKey)
+		[ 8] : Line: 2204	InputMethod   GetKey              	(this.zone.emuKeySwipeR)
+		[ 9] : Line: 2204	InputMethod   GetKey              	(this.zone.emuKeySwipeL)
+		[10] : Line: 2205	InputMethod   GetKey              	(this.zone.emuKeySwipeU)
+		[11] : Line: 2205	InputMethod   GetKey              	(this.zone.emuKeySwipeD)
+		[12] : Line: 2207	InputMethod   GetKey              	(this.zone.emuKeyPinch)
+		[13] : Line: 2207	InputMethod   GetKey              	(this.zone.emuKeySpread)
+		[14] : Line: 2208	InputMethod   GetKey              	(this.zone.emuKeyTwistL)
+		[15] : Line: 2208	InputMethod   GetKey              	(this.zone.emuKeyTwistR)
+		[16] : Line: 2217	InputMethod   GetKey              	(this.zone.emuKeyOneFinger)
+		[17] : Line: 2219	InputMethod   GetKey              	(this.zone.emuKeyTwoFingers)
+		[18] : Line: 2221	InputMethod   GetKey              	(this.zone.emuKeyThreeFingers)
+		[19] : Line: 2231	InputMethod   GetKey              	(this.zone.emuKeyOneFinger)
+		[20] : Line: 2232	InputMethod   GetKey              	(this.zone.emuKeyTwoFingers)
+		[21] : Line: 2233	InputMethod   GetKey              	(this.zone.emuKeyThreeFingers)
+		[22] : Line: 2307	InputMethod   GetKey              	(this.zone.emuMouseTwistKey)
+		[23] : Line: 2308	InputMethod   GetKey              	(this.zone.emuMousePinchKey)
+
+Converting script [13 / 13]	[\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\TouchControlPanel.cs]
+	Fragments : 12
+		[ 0] : Line:  466	InputProperty touchPressureSupported
+		[ 1] : Line:  468	InputProperty touchCount          
+		[ 2] : Line:  470	Other mod.	[UnityEngine.Touch]
+		[ 3] : Line:  470	InputMethod   GetTouch            	(i)
+		[ 4] : Line:  490	InputProperty touchPressureSupported
+		[ 5] : Line:  492	InputProperty touchCount          
+		[ 6] : Line:  494	Other mod.	[UnityEngine.Touch]
+		[ 7] : Line:  494	InputMethod   GetTouch            	(i)
+		[ 8] : Line:  635	InputMethod   GetMouseButton      	(0)
+		[ 9] : Line:  636	InputMethod   GetMouseButton      	(1)
+		[10] : Line:  637	InputMethod   GetMouseButton      	(2)
+		[11] : Line:  638	InputProperty touchCount          
+
+
+13 scripts modified!
+Overwriting actual scripts...
+	[0 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\UI\InGameMenuManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\InGameMenuManager.cs]
+	[1 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\UI\MenuNavigation.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\UI\MenuNavigation.cs]
+	[2 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Managers\GameFlowManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Managers\GameFlowManager.cs]
+	[3 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Gameplay\Managers\PlayerInputHandler.cs]
+	[4 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\QuestionsRelated\QuestionManager.cs]
+	[5 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\Gamepads\GamepadManager.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\Gamepads\GamepadManager.cs]
+	[6 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\InputModules\GamepadInputModule.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\InputModules\GamepadInputModule.cs]
+	[7 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CF2Input.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CF2Input.cs]
+	[8 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFCursor.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFCursor.cs]
+	[9 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFScreen.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\CFScreen.cs]
+	[10 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\InputRig.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\System\InputRig.cs]
+	[11 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\SuperTouchZone.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\SuperTouchZone.cs]
+	[12 / 13] from  [D:/BugsExplorer3DMobile/CF2-Data/Script-Backups/2023-05-09-23-04\Assets-After/\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\TouchControlPanel.cs] to [D:/BugsExplorer3DMobile/Assets/\FPS\Scripts\Game\Shared\Plugins\Scripts\TouchControls\TouchControlPanel.cs]
+
+Overwriting COMPLETED!
